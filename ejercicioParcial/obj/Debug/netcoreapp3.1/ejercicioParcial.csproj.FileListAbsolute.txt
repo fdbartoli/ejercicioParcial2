@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.exe
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.deps.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.runtimeconfig.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\bin\Debug\netcoreapp3.1\ejercicioParcial.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.dll
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.pdb
+C:\Users\Fernando\Desktop\IFTS\tecnicas de programacion\arrays\ejercicioParcial\ejercicioParcial\obj\Debug\netcoreapp3.1\ejercicioParcial.genruntimeconfig.cache
